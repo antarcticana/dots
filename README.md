@@ -51,17 +51,24 @@ On gentoo enable the guru repository for some extra stuff
 
     Arch: paru -S pipewire wireplumber pipewire-pulse pipewire-session-manager xdg-desktop-portal-wlr xdg-desktop-portal-hyprland xdg-desktop-portal-kde xdg-desktop-portal river swww rofi-wayland waybar dunst pywal thunar kitty floorp git make cmake curl
     
-    Artix: on artix its the same as arch but pipewire, wireplumber, pipewire-pulse are suffixed by your init "pipewire-openrc" as example 
-    ps: make sure to have extra repository enabled too in /etc/pacman.conf
+Artix:
 
-    Void: sudo xbps-install pipewire wireplumber pipewire-pulse xdg-desktop-portal xdg-desktop-portal-wlr xdg-desktop-portal-kde river swww rofi waybar dunst pywal thunar kitty firefox git make cmake curl
-    ps: i couldnt find floorp in void repo or xbps-src so maybe its there i didnt search much please pm if there is
+    on artix its the same as arch but pipewire, wireplumber, pipewire-pulse are suffixed by your init "pipewire-openrc" as example 
+ps: make sure to have extra repository enabled too in /etc/pacman.conf
 
-    Gentoo: sudo emerge media-video/pipewire    media-video/wireplumber    sys-apps/xdg-desktop-portal    sys-apps/xdg-desktop-portal-kde    sys-apps/xdg-desktop-portal-wlr 
+Void:
+
+    sudo xbps-install pipewire wireplumber pipewire-pulse xdg-desktop-portal xdg-desktop-portal-wlr xdg-desktop-portal-kde river swww rofi waybar dunst pywal thunar kitty firefox git make cmake curl
+ps: i couldnt find floorp in void repo or xbps-src so maybe its there i didnt search much please pm if there is
+    
+Gentoo:
+
+    sudo emerge media-video/pipewire    media-video/wireplumber    sys-apps/xdg-desktop-portal    sys-apps/xdg-desktop-portal-kde    sys-apps/xdg-desktop-portal-wlr 
     gui-wm/river    gui-apps/swww    gui-apps/rofi-wayland    gui-apps/waybar    x11-misc/dunst    x11-misc/pywal    xfce-base/thunar    x11-terms/kitty    www-client/firefox    dev-vcs/git             dev-build/make    dev-build/cmake    net-misc/curl
-    ps: no floorp in gentoo repos and guru too
+    
+ps: no floorp in gentoo repos and guru too
 
-    god that gentoo part took some time
+god that gentoo part took some time
 
 
 
