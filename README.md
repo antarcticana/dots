@@ -49,7 +49,9 @@ On gentoo enable the guru repository for some extra stuff
 
 #                                                                                        Installation
 
-    Arch: paru -S pipewire wireplumber pipewire-pulse pipewire-session-manager xdg-desktop-portal-wlr xdg-desktop-portal-hyprland xdg-desktop-portal-kde xdg-desktop-portal river swww rofi-wayland waybar dunst pywal thunar kitty floorp git make cmake curl
+Arch:
+      
+    paru -S pipewire wireplumber pipewire-pulse pipewire-session-manager xdg-desktop-portal-wlr xdg-desktop-portal-hyprland xdg-desktop-portal-kde xdg-desktop-portal river swww rofi-wayland waybar      dunst pywal thunar kitty floorp git make cmake curl
     
 Artix:
 
