@@ -37,7 +37,7 @@ On gentoo enable the guru repository for some extra stuff
 
     git make cmake curl
 
-#   An aur helper such as yay or paru is also recommended if using arch based distros
+   An aur helper such as yay or paru is also recommended if using arch based distros
 
 
 
