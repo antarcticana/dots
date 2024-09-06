@@ -14,7 +14,8 @@ optional:
 vesktop, lyssa
 
 
-                                                                                        screenshots
+#                                                                                        screenshots
 
 
-                                                      ![screenshot]https://github.com/user-attachments/assets/8e89110a-c8fd-4922-a304-4084447597f4)
+
+![screenshot]https://github.com/user-attachments/assets/8e89110a-c8fd-4922-a304-4084447597f4)
