@@ -11,11 +11,11 @@ river swww rofi waybar dunst pywal thunar kitty floorp
 
 optional:
 
-vesktop, lyssa
+vesktop, lyssa, grim and slurp
 
 
 #                                                                                        screenshots
 
 
 
-![screenshot]https://github.com/user-attachments/assets/8e89110a-c8fd-4922-a304-4084447597f4)
+![screenshot](https://github.com/user-attachments/assets/8e89110a-c8fd-4922-a304-4084447597f4)
