@@ -11,7 +11,7 @@ On void install all repos except debug (or not your choice) for unfree stuff if 
 
 On gentoo enable the guru repository for some extra stuff
 
-    sudo emerge eselect-repository
+    sudo emerge -a eselect-repository
     sudo eselect-repository enable guru
     emaint sync
 
@@ -65,7 +65,7 @@ ps: i couldnt find floorp in void repo or xbps-src so maybe its there i didnt se
     
 Gentoo:
 
-    sudo emerge media-video/pipewire    media-video/wireplumber    sys-apps/xdg-desktop-portal    sys-apps/xdg-desktop-portal-kde    sys-apps/xdg-desktop-portal-wlr 
+    sudo emerge -a media-video/pipewire    media-video/wireplumber    sys-apps/xdg-desktop-portal    sys-apps/xdg-desktop-portal-kde    sys-apps/xdg-desktop-portal-wlr 
     gui-wm/river    gui-apps/swww    gui-apps/rofi-wayland    gui-apps/waybar    x11-misc/dunst    x11-misc/pywal    xfce-base/thunar    x11-terms/kitty    www-client/firefox    dev-vcs/git dev-build/make    dev-build/cmake    net-misc/curl
     
 ps: no floorp in gentoo repos and guru too
