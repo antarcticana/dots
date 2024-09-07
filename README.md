@@ -70,7 +70,9 @@ Gentoo:
     
 ps: no floorp in gentoo repos and guru too
 
-god that gentoo part took some time
+#                                                                                        Credits
+dpgraham4401: for the waybar config and style
+adi1090x: for the rofi launchers and config
 
 
 
