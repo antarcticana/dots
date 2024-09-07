@@ -43,6 +43,7 @@ On gentoo enable the guru repository for some extra stuff
 
 
 
+
 #                                                                                         Optional:
 
     vesktop, lyssa, dunst, flatpak, grim and slurp
