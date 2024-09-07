@@ -72,6 +72,7 @@ ps: no floorp in gentoo repos and guru too
 
 #                                                                                        Credits
 dpgraham4401: for the waybar config and style
+
 adi1090x: for the rofi launchers and config
 
 
